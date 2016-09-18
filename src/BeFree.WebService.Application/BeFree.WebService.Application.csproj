@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="AccountService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShoppingService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BeFree.WebService.Domain\BeFree.WebService.Domain.csproj">

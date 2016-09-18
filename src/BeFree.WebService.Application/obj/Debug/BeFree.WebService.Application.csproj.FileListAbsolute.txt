@@ -3,3 +3,17 @@ c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.We
 c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Application\obj\Debug\BeFree.WebService.Application.csprojResolveAssemblyReference.cache
 c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Application\obj\Debug\BeFree.WebService.Application.dll
 c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Application\obj\Debug\BeFree.WebService.Application.pdb
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Debug\BeFree.WebService.Application.dll.config
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Debug\BeFree.WebService.Application.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Debug\BeFree.WebService.Application.pdb
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Debug\BeFree.WebService.Domain.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Debug\BeFree.WebService.Infra.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Debug\EntityFramework.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Debug\BeFree.WebService.Domain.pdb
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Debug\BeFree.WebService.Infra.pdb
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Debug\EntityFramework.xml
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\obj\Debug\BeFree.WebService.Application.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\obj\Debug\BeFree.WebService.Application.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\obj\Debug\BeFree.WebService.Application.pdb

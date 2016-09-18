@@ -1,41 +1,37 @@
 ﻿using BeFree.WebService.Application;
 using BeFree.WebService.Domain;
-using BeFree.WebService.Infra;
 using BeFree.WebService.Request;
 using BeFree.WebService.Response;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 
 namespace BeFree.WebService.Controllers
 {
-    public class AccountController : ApiController
+	public class AccountController : ApiController
     {
-        // GET: api/Account
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
+		private AccountService accountService;
 
-        // GET: api/Account/5
+		public AccountController()
+		{
+			this.accountService = new AccountService();
+		}
+
         public UserResponse Get(int id)
         {
-			var novoUser = new User { PrimeiroNome = "Cesar" };
-			var accountService = new AccountService();
-			var resposta = new User();
+			var userResponse = new UserResponse();
+
 			try
 			{
-				resposta = accountService.GetUser(id);
-            }
+				var user = this.accountService.GetUser(id);
+				userResponse = AutoMapper.Mapper.Map<UserResponse>(user);
+			}
 			catch (Exception ex)
 			{
-				throw;
+				throw ex;
 			}
 
-			return new UserResponse { Nome = resposta.NomeCompleto()};
+			return userResponse;
         }
 
 		public UserResponse Get(string nome)
@@ -43,19 +39,56 @@ namespace BeFree.WebService.Controllers
 			return new UserResponse();
 		}
 
-		// POST: api/Account
-		public void Post([FromBody]UserRequest user)
+		public HttpStatusCode Post(UserRequest user)
         {
+			if (user == null) { return HttpStatusCode.BadRequest; }
+
+			var newUser = AutoMapper.Mapper.Map<User>(user);
+
+			try
+			{
+				this.accountService.AddUser(newUser);
+			}
+			catch (Exception)
+			{
+				return HttpStatusCode.InternalServerError;
+			}
+
+			return HttpStatusCode.OK;
 		}
 
-        // PUT: api/Account/5
-        public void Put(int id, [FromBody]UserRequest value)
+        public HttpStatusCode Put(int id, UserRequest user)
         {
-        }
+			if (user == null) { return HttpStatusCode.BadRequest; }
 
-        // DELETE: api/Account/5
-        public void Delete(int id)
+			var newUser = AutoMapper.Mapper.Map<User>(user);
+
+			try
+			{
+				this.accountService.AddUser(newUser);
+			}
+			catch (Exception)
+			{
+				return HttpStatusCode.InternalServerError;
+			}
+
+			return HttpStatusCode.OK;
+		}
+
+        public HttpStatusCode Delete(int id)
         {
+			if (id == default(int)) { return HttpStatusCode.BadRequest; }
+
+			try
+			{
+				this.accountService.DeleteUser(id);
+			}
+			catch (Exception)
+			{
+				return HttpStatusCode.InternalServerError;
+			}
+
+			return HttpStatusCode.OK;
         }
     }
 }

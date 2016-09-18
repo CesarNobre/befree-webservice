@@ -1,7 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace BeFree.WebService.Domain
 {
+	[Table("Endereco")]
 	public class Endereco
 	{
 		[Key]
@@ -16,5 +18,6 @@ namespace BeFree.WebService.Domain
 		public int Cep { get; set; }
 
 		public int Numero { get; set; }
+
 	}
 }

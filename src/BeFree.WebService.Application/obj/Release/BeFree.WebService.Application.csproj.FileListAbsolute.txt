@@ -1,0 +1,14 @@
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Release\BeFree.WebService.Application.dll.config
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Release\BeFree.WebService.Application.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Release\BeFree.WebService.Application.pdb
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Release\BeFree.WebService.Domain.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Release\BeFree.WebService.Infra.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Release\EntityFramework.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Release\BeFree.WebService.Domain.pdb
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Release\BeFree.WebService.Infra.pdb
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Release\EntityFramework.xml
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\obj\Release\BeFree.WebService.Application.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\obj\Release\BeFree.WebService.Application.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Application\obj\Release\BeFree.WebService.Application.pdb

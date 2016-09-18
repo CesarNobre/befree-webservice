@@ -1,0 +1,9 @@
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Domain\bin\Release\BeFree.WebService.Domain.dll.config
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Domain\bin\Release\BeFree.WebService.Domain.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Domain\bin\Release\BeFree.WebService.Domain.pdb
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Domain\bin\Release\EntityFramework.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Domain\bin\Release\EntityFramework.xml
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Domain\obj\Release\BeFree.WebService.Domain.dll
+C:\Users\cesar\Documents\Visual Studio 2015\Projects\BeFree.WebService\src\BeFree.WebService.Domain\obj\Release\BeFree.WebService.Domain.pdb

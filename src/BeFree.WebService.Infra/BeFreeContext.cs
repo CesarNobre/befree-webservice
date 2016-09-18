@@ -11,6 +11,10 @@ namespace BeFree.WebService.Infra
 
 		public DbSet<User> User { get; set; }
 		public DbSet<Shopping> Shopping { get; set; }
-		
+
+		protected override void OnModelCreating(DbModelBuilder modelBuilder)
+		{
+			
+		}
 	}
 }
