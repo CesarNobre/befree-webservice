@@ -1,0 +1,12 @@
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Infra\bin\Debug\BeFree.WebService.Infra.dll
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Infra\bin\Debug\BeFree.WebService.Infra.pdb
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Infra\obj\Debug\BeFree.WebService.Infra.csprojResolveAssemblyReference.cache
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Infra\obj\Debug\BeFree.WebService.Infra.dll
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Infra\obj\Debug\BeFree.WebService.Infra.pdb
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Infra\bin\Debug\BeFree.WebService.Infra.dll.config
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Infra\bin\Debug\BeFree.WebService.Domain.dll
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Infra\bin\Debug\EntityFramework.dll
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Infra\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Infra\bin\Debug\BeFree.WebService.Domain.pdb
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Infra\bin\Debug\EntityFramework.xml
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Infra\bin\Debug\EntityFramework.SqlServer.xml

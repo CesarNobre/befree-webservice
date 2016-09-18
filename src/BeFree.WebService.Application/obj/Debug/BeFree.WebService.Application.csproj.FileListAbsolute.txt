@@ -1,0 +1,5 @@
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Application\bin\Debug\BeFree.WebService.Application.dll
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Application\bin\Debug\BeFree.WebService.Application.pdb
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Application\obj\Debug\BeFree.WebService.Application.csprojResolveAssemblyReference.cache
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Application\obj\Debug\BeFree.WebService.Application.dll
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Application\obj\Debug\BeFree.WebService.Application.pdb

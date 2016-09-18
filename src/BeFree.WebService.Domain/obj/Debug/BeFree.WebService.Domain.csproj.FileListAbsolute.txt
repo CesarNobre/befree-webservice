@@ -1,0 +1,10 @@
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Domain\bin\Debug\BeFree.WebService.Domain.dll
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Domain\bin\Debug\BeFree.WebService.Domain.pdb
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Domain\obj\Debug\BeFree.WebService.Domain.csprojResolveAssemblyReference.cache
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Domain\obj\Debug\BeFree.WebService.Domain.dll
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Domain\obj\Debug\BeFree.WebService.Domain.pdb
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Domain\bin\Debug\BeFree.WebService.Domain.dll.config
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Domain\bin\Debug\EntityFramework.dll
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Domain\bin\Debug\EntityFramework.xml
+c:\users\cesar\documents\visual studio 2015\Projects\BeFree.WebService\BeFree.WebService.Domain\bin\Debug\EntityFramework.SqlServer.xml
